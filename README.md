@@ -1,0 +1,2 @@
+# closeTabs
+AutoClose chrome tabs 
